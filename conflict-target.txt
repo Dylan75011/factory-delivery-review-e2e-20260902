@@ -1,1 +1,1 @@
-state=from-b
+state=conversation-b
